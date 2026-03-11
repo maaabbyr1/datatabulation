@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env
+
+# Windows
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Output files (optional)
+data/output/
