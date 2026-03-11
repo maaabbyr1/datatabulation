@@ -19,3 +19,11 @@ dist/
 
 # Output files (optional)
 data/output/
+
+# Ignore data files
+*.csv
+*.xlsx
+
+# Python cache
+__pycache__/
+*.pyc
